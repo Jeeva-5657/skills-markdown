@@ -14,3 +14,6 @@ var myVar = "Hello, world!";
 for i in list:
   print(i)
 ```
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
